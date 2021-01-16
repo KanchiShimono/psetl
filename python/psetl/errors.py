@@ -1,0 +1,2 @@
+class DataFrameValidationError(Exception):
+    pass
